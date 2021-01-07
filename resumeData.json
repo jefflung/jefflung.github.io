@@ -82,12 +82,14 @@
     "work":[
       {
         "company":"Dreamshub Limited",
+        "url":"https://www.dreamshub.com",
         "title":"Web Designer",
         "years":"September 2013 - October 2020",
         "description":"This IT company provides different kind of services like front end design and development, backend support, and branding. My works included Web Design and Front-end Development, UI Design, Website animation."
       },
       {
         "company":"Infin Media Company Ltd.",
+        "url":"https://www.infinmedia.net/",
         "title":"Multimedia Designer",
         "years":"March 2013 - August 2013",
         "description":"In this small scale IT company, I have worked some websites of Leisure and Cultural Services Department in Hong Kong. My works included Web Design and Development, UI Design."
@@ -100,6 +102,7 @@
       },
       {
         "company":"Town Health Management and Services Limited",
+        "url":"http://www.townhealth.com/en/Default.aspx",
         "title":"Graphic Designer",
         "years":"July 2009 - October 2011",
         "description":"In this medical corporate group, my works included Graphic Design, Website assets development and update, 3D animation and Video editing."
