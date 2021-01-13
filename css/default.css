@@ -749,6 +749,9 @@ properly.
    .row .offset-9    { margin-left: 0%; }
    .row .offset-10   { margin-left: 0%; }
    .row .offset-11   { margin-left: 0%; }
+
+   /*Hide profile pic blank space on mobile*/
+   .propic {display: none;}
 }
 
 /* mobile narrow
