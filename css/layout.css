@@ -929,7 +929,7 @@ call-to-action .button {
 #twitter li span {
    display: block;
 }
-#twitter li b a {
+#twitter li b /*a*/ {
    font: 13px/36px 'opensans-regular', Sans-serif;
    color: #474747 !important;
    border: none;
