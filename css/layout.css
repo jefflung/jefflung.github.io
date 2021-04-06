@@ -517,16 +517,6 @@ ul#nav li.current a { color: #F06000; }
 	filter:alpha(opacity=100);
 }
 
-
-/*for words in last one*/
-@media only screen and (min-width: 900px) {
-   .last {
-      display: flex;
-      align-items: flex-end;
-      height: 176px;
-   }
-}
-
 /* popup modal */
 .popup-modal {
 	max-width: 550px;
@@ -929,7 +919,7 @@ call-to-action .button {
 #twitter li span {
    display: block;
 }
-#twitter li b /*a*/ {
+#twitter li b a {
    font: 13px/36px 'opensans-regular', Sans-serif;
    color: #474747 !important;
    border: none;
