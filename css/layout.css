@@ -720,6 +720,7 @@ call-to-action .button {
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#testimonials blockquote cite a:hover { color: #8B9798; border: none }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
