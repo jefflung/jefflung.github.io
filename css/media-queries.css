@@ -232,9 +232,9 @@
       text-align: center;
    }
    #resume h1 { letter-spacing: 3px; }
-   #resume .main-col { padding-right: 30px; }
+   #resume .main-col { padding-right: 30px; text-align: center; }
    #resume h3, #resume .info { text-align: center; }
-      
+   #resume p {text-align: left;}
    .bars { width: 100%; }
 
 
