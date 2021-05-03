@@ -156,33 +156,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Low poly game character",
-        "category":"This character is optimized for running on general PC game with an animation demo.",
-        "image":"3d_1.jpg",
-        "url":"https://youtu.be/ZcUMXIn5reI",
-        "url2":"https://youtu.be/sVIJq5DNYuQ"
-      },
-      {
-        "title":"Android mobile game demo",
-        "category":"This demo is created with Unity3D and all assets are created by me.",
-        "image":"mobile_game.jpg",
-        "url":"https://youtu.be/i10G1FGAQBY"
-      },
-      {
-        "title":"House Transformer robot",
-        "category":"This robot was animated and rendered with Maya and Mental Ray",
-        "image":"3d_2.jpg",
-        "url":"https://youtu.be/D3X3KK3ado4",
-        "url2":"https://youtu.be/8ggqDskmhGI",
-        "url3":"https://youtu.be/0YbGKuJoigE"
-      },
-      {
-        "title":"Medical corporate motto video",
-        "category":"This video is rendered with Maya and Mental Ray then composited with Aftereffect.",
-        "image":"3d_video.jpg",
-        "url":"https://youtu.be/cNJxIUNDPgA"
-      },
-      {
         "title":"Web design case 01",
         "category":"The client was a beauty business company which request a feminine style design for the website.",
         "image":"website_brava.jpg"
@@ -221,6 +194,33 @@
         "title":"Logo design case 01",
         "category":"This logo design is made when I work in an IT company which needed to update its branding.",
         "image":"logo_design.jpg"
+      },
+      {
+        "title":"Medical corporate motto video",
+        "category":"This video is rendered with Maya and Mental Ray then composited with Aftereffect.",
+        "image":"3d_video.jpg",
+        "url":"https://youtu.be/cNJxIUNDPgA"
+      },
+      {
+        "title":"Low poly game character",
+        "category":"This character is optimized for running on general PC game with an animation demo.",
+        "image":"3d_1.jpg",
+        "url":"https://youtu.be/ZcUMXIn5reI",
+        "url2":"https://youtu.be/sVIJq5DNYuQ"
+      },
+      {
+        "title":"Android mobile game demo",
+        "category":"This demo is created with Unity3D and all assets are created by me.",
+        "image":"mobile_game.jpg",
+        "url":"https://youtu.be/i10G1FGAQBY"
+      },
+      {
+        "title":"House Transformer robot",
+        "category":"This robot was animated and rendered with Maya and Mental Ray",
+        "image":"3d_2.jpg",
+        "url":"https://youtu.be/D3X3KK3ado4",
+        "url2":"https://youtu.be/8ggqDskmhGI",
+        "url3":"https://youtu.be/0YbGKuJoigE"
       }
     ]
   },
