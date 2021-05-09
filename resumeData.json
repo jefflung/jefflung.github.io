@@ -81,6 +81,12 @@
     ],
     "work":[
       {
+        "company":"Freelancer",
+        "title":"Web Designer",
+        "years":"October 2020 - Present",
+        "description":"Wordpress website layout revision and update content, Website artworks design and production"
+      },
+      {
         "company":"Dreamshub Limited",
         "url":"https://www.dreamshub.com",
         "title":"Web Designer",
@@ -155,6 +161,11 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Website update",
+        "category":"This client provides hair transplant service. The website is powered by a CMS system and Wordpress with which I update the content, artworks and revise the layout if necessary.",
+        "image":"website_nuhart.jpg"
+      },
       {
         "title":"Web design case 01",
         "category":"The client was a beauty business company which request a feminine style design for the website.",
