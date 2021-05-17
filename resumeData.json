@@ -172,32 +172,37 @@
         "image":"website_brava.jpg"
       },
       {
-        "title":"Web design case 02(I)",
+        "title":"Web design case 02",
+        "category":"A website for Real Madrid kid training program in Hong Kong. I was responsible for the front-end coding like css.",
+        "image":"website_realmadrid.jpg"
+      },
+      {
+        "title":"Web design case 03(I)",
         "category":"The client was a football club in Hong Kong, and it need a dynamic and modern style design.",
         "image":"website_eastern1.jpg"
       },
       {
-        "title":"Web design case 02(II)",
+        "title":"Web design case 03(II)",
         "category":"Except the layout design, I also work the css style of the website.",
         "image":"website_eastern2.jpg"
       },
       {
-        "title":"Web design case 03",
+        "title":"Web design case 04",
         "category":"The client is an agent company who helps customers to book accomodation and transport in a south east asia location.",
         "image":"website_profitlink.jpg"
       },
       {
-        "title":"Web design case 04",
+        "title":"Web design case 05",
         "category":"The client was a recreation department of the Hong Kong Government, which ran some entertainment show for family in summer.",
         "image":"website_iac.jpg"
       },
       {
-        "title":"Web design case 05",
+        "title":"Web design case 06",
         "category":"The client ran Chinese drama show for the public in Hong Kong and it needed a website which could express the Chinese traditional culture.",
         "image":"website_chidrama.jpg"
       },
       {
-        "title":"Web design case 06",
+        "title":"Web design case 07",
         "category":"The layout design is a gaming company which business is mainly based in Asia but has extended to Europe lately.",
         "image":"website_gaming.jpg"
       },
@@ -205,6 +210,16 @@
         "title":"Logo design case 01",
         "category":"This logo design is made when I work in an IT company which needed to update its branding.",
         "image":"logo_design.jpg"
+      },
+      {
+        "title":"App development flowchart",
+        "category":"This pre-release app is for hiring taxi. I was responsible for some artwork production for app and drawing the flow chart for development.",
+        "image":"app_taxi.jpg"
+      },
+      {
+        "title":"App wireframe",
+        "category":"The wireframe is drawn for concept development of a gaming app.",
+        "image":"wireframe_gaming.jpg"
       },
       {
         "title":"Medical corporate motto video",
