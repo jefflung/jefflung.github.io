@@ -212,6 +212,16 @@
         "image":"logo_design.jpg"
       },
       {
+        "title":"Logo design case 02",
+        "category":"The medical corporate company needed a logo for a new charity foundation, and I designed and prepared a color scheme for this project.",
+        "image":"logo_uws.jpg"
+      },
+      {
+        "title":"Souvenir design",
+        "category":"The scarf design is for a event by the worldwide charity group Plan.",
+        "image":"scarf_design.jpg"
+      },
+      {
         "title":"App development flowchart",
         "category":"This pre-release app is for hiring taxi. I was responsible for some artwork production for app and drawing the flow chart for development.",
         "image":"app_taxi.jpg"
@@ -236,13 +246,13 @@
       },
       {
         "title":"Android mobile game demo",
-        "category":"This demo is created with Unity3D and all assets are created by me.",
+        "category":"The final project of my bachelor degree course. It is a playable demo with timer. I learnt much Unity3D and JavsScript through the production process. All assets are created by me.",
         "image":"mobile_game.jpg",
         "url":"https://youtu.be/i10G1FGAQBY"
       },
       {
         "title":"House Transformer robot",
-        "category":"This robot was animated and rendered with Maya and Mental Ray",
+        "category":"This robot was animated and rendered with Maya and Mental Ray. It is for a computer shop client website video.",
         "image":"3d_2.jpg",
         "url":"https://youtu.be/D3X3KK3ado4",
         "url2":"https://youtu.be/8ggqDskmhGI",
