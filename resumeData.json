@@ -232,10 +232,16 @@
         "image":"wireframe_gaming.jpg"
       },
       {
-        "title":"Medical corporate motto video",
+        "title":"Corporate brand value video",
         "category":"This video is rendered with Maya and Mental Ray then composited with Aftereffect.",
         "image":"3d_video.jpg",
         "url":"https://youtu.be/cNJxIUNDPgA"
+      },
+      {
+        "title":"Android mobile game demo",
+        "category":"The final project of my bachelor degree course. It is a playable demo with timer. I learnt much Unity3D and JavsScript through the production process. All assets are created by me.",
+        "image":"mobile_game.jpg",
+        "url":"https://youtu.be/i10G1FGAQBY"
       },
       {
         "title":"Low poly game character",
@@ -243,12 +249,6 @@
         "image":"3d_1.jpg",
         "url":"https://youtu.be/ZcUMXIn5reI",
         "url2":"https://youtu.be/sVIJq5DNYuQ"
-      },
-      {
-        "title":"Android mobile game demo",
-        "category":"The final project of my bachelor degree course. It is a playable demo with timer. I learnt much Unity3D and JavsScript through the production process. All assets are created by me.",
-        "image":"mobile_game.jpg",
-        "url":"https://youtu.be/i10G1FGAQBY"
       },
       {
         "title":"House Transformer robot",
