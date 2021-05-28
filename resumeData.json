@@ -16,7 +16,7 @@
     "phone": "0790 754 6197",
     "address":{
       "street":"",
-      "city":"Manchester, UK",
+      "city":"Manchester",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am competent with most of Adobe suite softwares and I worked by using Maya as well.",
+    "skillmessage":"I am competent with most of Adobe suite softwares and I worked with 3D sofwares as well.",
     "education":[
       {
         "school":"Coventry University (Jointly run with School for Higher and Professional Education)",

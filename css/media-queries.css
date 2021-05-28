@@ -5,8 +5,9 @@
 *   03-18-2014
 
 /* ================================================================== */
-
-
+@media only screen and (min-width: 1024px) {
+   header .banner img{width: 80%;}
+}
 /* screenwidth less than 1024px
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 1024px) {
@@ -40,6 +41,8 @@
       width: 65%;
       margin: 12px auto;
    }
+   
+
    /* nav-wrap */
    #nav-wrap {
       font: 11px 'opensans-bold', sans-serif;
@@ -51,7 +54,7 @@
    ------------------------------------------------------------------- */
    #about .profile-pic {
       width: 114px;
-      height: 114px;
+      /*height: 114px;*/
       margin-left: 12px;
    }
    #about .contact-details { width: 50%; }
@@ -84,7 +87,7 @@
    ------------------------------------------------------------------- */
    #contact .section-head { margin-bottom: 30px; }
    #contact .header-col h1:before {
-      font-size: 66px;
+      font-size: 30px;
       line-height: 66px;
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
@@ -112,7 +115,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #dcd32f;
 		position: relative;
       border: none;
       float: right;
@@ -160,7 +163,7 @@
 	#nav-wrap:target > ul#nav	{
 	   display: block;
       padding: 30px 20px 48px 20px;
-      background: #1f2024;
+      background: rgba(5,130,201,0.9);
       margin: 0 30px;
       clear: both;
    }
@@ -257,6 +260,11 @@
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
+   #portfolio .works{ 
+      width: 50%;
+      margin: 0 auto 10px;
+      display: block;
+   }
 
    /* Testimonials Section
    ----------------------------------------------------------------------- */
@@ -281,16 +289,22 @@
       margin-left: -30px;
    }
 
+   /* Skills */
+   #skills .header-col {
+      padding-top: 0;
+      margin-bottom: 48px;
+      text-align: center;
+   }
 
    /* contact Section
    ----------------------------------------------------------------------- */
    #contact { padding-bottom: 66px; }
    #contact .section-head { margin-bottom: 12px; }
    #contact .section-head h1 {
-      font: 16px/24px 'opensans-bold', sans-serif;            
+      font: 18px/24px 'opensans-bold', sans-serif;            
       text-align: center;   
       margin-bottom: 30px;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+      /*text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);*/
    }  
    #contact h1 span { display: block; }
    #contact .header-col { padding-top: 0; }
