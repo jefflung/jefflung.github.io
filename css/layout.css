@@ -458,6 +458,13 @@ ul#nav li.current a { color: #e4ff00; }
    margin: 0 auto 10px;
    display: block;
 }
+#portfolio .updatedsoon{
+   padding: 0 20px;
+   color: #777;
+   font-weight:bold;
+   display: inline-flex;
+   margin-top: 70px;
+}
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
@@ -965,14 +972,14 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #717171;
+   color: #c165aa;
    font-size: 14px;
    text-align: center;
    position: relative;
    background:#75145d;
 }
 
-footer a, footer a:visited { color: #7d7d7d; }
+footer a, footer a:visited { color: #c165aa; }
 footer a:hover, footer a:focus { color: #e4ff00; }
 
 /* copyright */
