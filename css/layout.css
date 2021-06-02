@@ -33,6 +33,11 @@
    stroke-dashoffset: 4000;
 }
 
+.base{
+   -webkit-animation: 9s ease 0s normal forwards 1 fadein;
+    animation: 9s ease 0s normal forwards 1 fadein;
+}
+
 .react{
    stroke-width: 84;
    animation: letter-animation 10s linear forwards;
@@ -257,6 +262,18 @@
    100% {
        stroke-dashoffset: 0;
    }
+}
+
+@keyframes fadein{
+   0% { opacity:0; }
+   90% { opacity:0; }
+   100% { opacity:1; }
+}
+
+@-webkit-keyframes fadein{
+   0% { opacity:0; }
+   90% { opacity:0; }
+   100% { opacity:1; }
 }
 
 /* ------------------------------------------------------------------ */
