@@ -50,47 +50,47 @@
 }
 .built-h {
    stroke-width: 9;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 7.3s;
 }
 .built-t2 {
    stroke-width: 7;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 7.1s;
 }
 .built-i2 {
    stroke-width: 7;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 6.9s;
 }
 .built-w {
    stroke-width: 6;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 6.7s;
 }
 .built-t {
    stroke-width: 7;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 6.5s;
 }
 .built-l {
    stroke-width: 9;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 6.3s;
 }
 .built-i {
    stroke-width: 7;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 6.1s;
 }
 .built-u {
    stroke-width: 6;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 5.9s;
 }
 .built-b {
    stroke-width: 6;
-   animation: letter-animation 10s linear forwards;
+   animation: letter-animation 4s linear forwards;
    animation-delay: 5.7s;
 }
 
