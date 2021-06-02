@@ -34,60 +34,70 @@
    stroke-dashoffset: 4000;
 }
 
+header{
+   -webkit-animation: 0.5s ease 0.5s normal forwards 1 gradient;
+    animation: 0.5s ease 0.5s normal forwards 1 gradient;
+}
+
+.nav, .scrolldown{
+   -webkit-animation: 1s ease 0s normal forwards 1 fadein;
+    animation: 1s ease 0s normal forwards 1 fadein;
+}
+
 .base{
-   -webkit-animation: 9s ease 0s normal forwards 1 fadein;
-    animation: 9s ease 0s normal forwards 1 fadein;
+   -webkit-animation: 7.5s ease 0s normal forwards 1 fadein;
+    animation: 7.5s ease 0s normal forwards 1 fadein;
 }
 
 .react{
    stroke-width: 84;
    animation: letter-animation 10s linear forwards;
-   animation-delay: 7.7s;
+   animation-delay: 6.7s;
 }
 .reactlogo {
    stroke-width: 60;
    animation: letter-animation 10s linear forwards;
-   animation-delay: 7.5s;
+   animation-delay: 6.6s;
 }
 .built-h {
    stroke-width: 9;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 7.3s;
+   animation-delay: 6.5s;
 }
 .built-t2 {
    stroke-width: 7;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 7.1s;
+   animation-delay: 6.4s;
 }
 .built-i2 {
    stroke-width: 7;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 6.9s;
+   animation-delay: 6.3s;
 }
 .built-w {
    stroke-width: 6;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 6.7s;
+   animation-delay: 6.2s;
 }
 .built-t {
    stroke-width: 7;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 6.5s;
+   animation-delay: 6.1s;
 }
 .built-l {
    stroke-width: 9;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 6.3s;
+   animation-delay: 6s;
 }
 .built-i {
    stroke-width: 7;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 6.1s;
+   animation-delay: 5.9s;
 }
 .built-u {
    stroke-width: 6;
    animation: letter-animation 4s linear forwards;
-   animation-delay: 5.9s;
+   animation-delay: 5.8s;
 }
 .built-b {
    stroke-width: 6;
@@ -254,6 +264,7 @@
 .w {
    stroke-width: 12;
    animation: letter-animation 5s linear forwards;
+   animation-delay: 0.2s;
 }
 
 @keyframes letter-animation {
@@ -277,6 +288,15 @@
    100% { opacity:1; }
 }
 
+@keyframes gradient{
+   0% {background: linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(117, 19, 93, 0.01)), url(../images/header-background.jpg) no-repeat top center}
+   25% {background: linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(117, 19, 93, 0.25)), url(../images/header-background.jpg) no-repeat top center}
+   50% {background: linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(117, 19, 93, 0.5)), url(../images/header-background.jpg) no-repeat top center}
+   75% {background: linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(117, 19, 93, 0.75)), url(../images/header-background.jpg) no-repeat top center}
+   100% {background: linear-gradient(to bottom, rgba(245, 246, 252, 0.01), rgba(117, 19, 93, 1)), url(../images/header-background.jpg) no-repeat top center}
+}
+
+
 /* ------------------------------------------------------------------ */
 /* a. General Styles
 /* ------------------------------------------------------------------ */
@@ -292,7 +312,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: linear-gradient(to bottom, rgba(245, 246, 252, 0.01), rgba(117, 19, 93, 1)), url(../images/header-background.jpg) no-repeat top center;
+   background: url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
