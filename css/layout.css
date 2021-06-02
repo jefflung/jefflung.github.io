@@ -19,6 +19,7 @@
    stroke: white;
    fill: none;
    position: relative;
+   margin-top: 5px;
  }
 
 .logo-path {
