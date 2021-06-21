@@ -104,7 +104,7 @@
         "company":"Freelancer",
         "title":"Multimedia Designer",
         "years":"October 2011 - March 2013",
-        "description":"During this period, I was studying a degree course and doing freelance design job. My works included Web Design and Develpment, UI Design, 3D animation."
+        "description":"During this period, I was studying a degree course and doing freelance design job. My works included Web Design and Development, UI Design, 3D animation."
       },
       {
         "company":"Town Health Management and Services Limited",
@@ -116,7 +116,7 @@
       {
         "company":"Next Dimension Advertising (HK) Ltd.",
         "title":"Multimedia Designer",
-        "years":"April 2000 - June 2009",
+        "years":"April 2001 - June 2009",
         "description":"In this advertising agency company, I have worked with a variety of projects like video ad, web game, printing ad and website. My works included general multimedia design basic level tasks, like graphic design, web design, video editing and animation."
       }
     ],
@@ -164,7 +164,8 @@
       {
         "title":"Website update",
         "category":"This client provides hair transplant service. The website is powered by a CMS system and Wordpress with which I update the content, artworks and revise the layout if necessary.",
-        "image":"website_nuhart.jpg"
+        "image":"website_nuhart.jpg",
+        "url":"https://www.nuhart.com.hk"
       },
       {
         "title":"Web design case 01",
@@ -174,7 +175,8 @@
       {
         "title":"Web design case 02",
         "category":"A website for Real Madrid kid training program in Hong Kong. I was responsible for the front-end coding like css.",
-        "image":"website_realmadrid.jpg"
+        "image":"website_realmadrid.jpg",
+        "url":"http://frmclinicshk.com/"
       },
       {
         "title":"Web design case 03(I)",
@@ -189,7 +191,8 @@
       {
         "title":"Web design case 04",
         "category":"The client is an agent company who helps customers to book accomodation and transport in a south east asia location.",
-        "image":"website_profitlink.jpg"
+        "image":"website_profitlink.jpg",
+        "url":"http://www.profitlinkvip.com/index_en.html"
       },
       {
         "title":"Web design case 05",
