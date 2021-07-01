@@ -1,19 +1,6 @@
-
-@media only screen and (min-width: 1024px) {
-   header .banner img{width: 80%;}
-}
-/* screenwidth less than 1024px
+/* screenwidth less than 1366px iPad pro
 --------------------------------------------------------------------- */
-@media only screen and (max-width: 1024px) {
-
-    /* header styles
-   ------------------------------------------------------------------ */
-   header .banner-text h1 {
-      font: 80px/1.1em 'opensans-bold', sans-serif;
-      letter-spacing: -1px;
-      margin: 0 auto 12px auto;
-   }
-
+@media only screen and (max-width: 1366px) {
    @-webkit-keyframes flick{
       0% {opacity:1;}
       5%{opacity: 1;}
@@ -46,14 +33,29 @@
       65%{opacity:1;}
       100%{opacity:1;}
    }
-   
-    
     
    .overlay{
       -webkit-animaition:flick 20s infinite;
       -moz-animation:flick 20s infinite;
       -o-animation: flick 20s infinite;
       animation:flick 20s infinite;
+   }
+}
+
+@media only screen and (min-width: 1024px) {
+   header .banner img{width: 80%;}
+}
+
+/* screenwidth less than 1024px
+--------------------------------------------------------------------- */
+@media only screen and (max-width: 1024px) {
+
+    /* header styles
+   ------------------------------------------------------------------ */
+   header .banner-text h1 {
+      font: 80px/1.1em 'opensans-bold', sans-serif;
+      letter-spacing: -1px;
+      margin: 0 auto 12px auto;
    }
 
 }
