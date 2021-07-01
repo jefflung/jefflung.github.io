@@ -14,6 +14,48 @@
       margin: 0 auto 12px auto;
    }
 
+   @-webkit-keyframes flick{
+      0% {opacity:1;}
+      5%{opacity: 1;}
+      15%{opacity: 0;}
+      50%{opacity:0;}
+      65%{opacity:1;}
+      100%{opacity:1;}
+   }
+   @-moz-keyframes flick{
+      0% {opacity:1;}
+      5%{opacity: 1;}
+      15%{opacity: 0;}
+      50%{opacity:0;}
+      65%{opacity:1;}
+      100%{opacity:1;}
+    }
+    @-o-keyframes flick{
+      0% {opacity:1;}
+      5%{opacity: 1;}
+      15%{opacity: 0;}
+      50%{opacity:0;}
+      65%{opacity:1;}
+      100%{opacity:1;}
+    }
+   @keyframes flick{
+      0% {opacity:1;}
+      5%{opacity: 1;}
+      15%{opacity: 0;}
+      50%{opacity:0;}
+      65%{opacity:1;}
+      100%{opacity:1;}
+   }
+   
+    
+    
+   .overlay{
+      -webkit-animaition:flick 20s infinite;
+      -moz-animation:flick 20s infinite;
+      -o-animation: flick 20s infinite;
+      animation:flick 20s infinite;
+   }
+
 }
 
 /* screenwidth less than 900px
@@ -88,7 +130,6 @@
       line-height: 66px;
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
-
 
 }
 
@@ -346,8 +387,7 @@
       font-size: 18px;
       line-height: 54px;
    }
-
-
+ 
 }
 
 /* mobile narrow
