@@ -850,6 +850,7 @@ ul#nav li.current a { color: #00f6ff; }
 .backdrop button:hover{
    background: #00f6ff;
 }
+.backdrop a:hover, a:visited, a:focus{color:#00f6ff;}
 
 /* popup modal */
 .popup-modal {
