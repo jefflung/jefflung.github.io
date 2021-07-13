@@ -155,7 +155,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #dcd32f;
+		background-color: #eceee3;
 		position: relative;
       border: none;
       float: right;
@@ -310,11 +310,11 @@
    ----------------------------------------------------------------------- */
    #testimonials .text-container { text-align: center; }
    #testimonials h1 {
-      font: 16px/24px 'opensans-bold', sans-serif;
+      font: 24px/24px 'opensans-bold', sans-serif;
       text-align: center;
       margin-bottom: 30px;
-      color:#53b9ea;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.7);
+      color:#00d4ff;
+      text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
    }
    #testimonials h1 span { display: block; }
    #testimonials .header-col h1:before { content: none; }
@@ -424,13 +424,6 @@
    footer .social-links { font-size: 20px; }
    footer .social-links li { margin-left: 14px; }   
 
+
+   #resume .curve{display: none;}
 }
-
-
-
-
-
-
-
-
-
