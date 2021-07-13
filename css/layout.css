@@ -732,7 +732,7 @@ ul#nav li.current a { color: #00f6ff; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #ff00a5;
+   color: #0088ff;
 }
 #portfolio .works{ 
    width: 25%;
@@ -845,6 +845,10 @@ ul#nav li.current a { color: #00f6ff; }
    opacity: 1;
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
+}
+
+.backdrop button:hover{
+   background: #00f6ff;
 }
 
 /* popup modal */
