@@ -1038,6 +1038,7 @@ call-to-action .button {
 #testimonials a { color: #42edff; }
 #testimonials a:hover { color: #97f5ff; }
 
+#testimonials .topoverlay {position:relative;top:-5px;}
 #testimonials .bottomoverlay {position:relative;bottom:-10px;}
 /* Flex Slider
 /* ------------------------------------------------------------------ */
