@@ -163,6 +163,13 @@
   "portfolio":{
     "projects": [
       {
+      "title":"Application task of Web Designer",
+      "category":"The task is finished on February 2021 for an accommodation promotion in Manchester. This website is built with bootstrap, jquery plugin like TweenMax, ScrollMagic, Jarallax for transition animation.",
+      "image":"website_hotel.jpg",
+      "url":"demo_hotel/index.html",
+      "bg":"blue"
+      },
+      {
         "title":"Website update",
         "category":"This client provides hair transplant service. The website is powered by a CMS system and Wordpress with which I update the content, artworks and revise the layout if necessary.",
         "image":"website_nuhart.jpg",
