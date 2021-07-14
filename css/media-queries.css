@@ -411,6 +411,7 @@
    }
    header .banner-text h3 {
       font: 14px/1.9em 'opensans-regular', sans-serif;
+      font-weight: bold;
       width: 90%;
    }
   
