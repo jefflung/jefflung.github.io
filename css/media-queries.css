@@ -237,7 +237,8 @@
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
       font: 16px/1.9em 'opensans-regular', sans-serif;
-      width: 85%;ibr
+      font-weight: bold;
+      width: 85%;
    }
    header .banner-text hr {
       width: 80%;
