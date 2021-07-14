@@ -164,7 +164,7 @@
     "projects": [
       {
       "title":"Application task of Web Designer",
-      "category":"The task is finished on February 2021 for an accommodation promotion in Manchester. This website is built with bootstrap, jquery plugin like TweenMax, ScrollMagic, Jarallax for transition animation.",
+      "category":"The task is finished on February 2021 for an accommodation promotion in Manchester. This website is built with bootstrap, jquery plugins TweenMax, ScrollMagic, Jarallax for transition animation.",
       "image":"website_hotel.jpg",
       "url":"demo_hotel/index.html",
       "bg":"blue"
