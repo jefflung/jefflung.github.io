@@ -178,46 +178,46 @@
       },
       {
         "title":"Web design case 01",
-        "category":"The client was a beauty business company which request a feminine style design for the website.",
-        "image":"website_brava.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 02",
         "category":"A website for Real Madrid kid training program in Hong Kong. I was responsible for the front-end coding like css.",
         "image":"website_realmadrid.jpg",
         "url":"http://frmclinicshk.com/",
         "bg":"blue"
       },
       {
-        "title":"Web design case 03(I)",
+        "title":"Web design case 02(I)",
         "category":"The client was a football club in Hong Kong, and it need a dynamic and modern style design.",
         "image":"website_eastern1.jpg",
         "bg":"blue"
       },
       {
-        "title":"Web design case 03(II)",
+        "title":"Web design case 02(II)",
         "category":"Except the layout design, I also work the css style of the website.",
         "image":"website_eastern2.jpg",
         "bg":"blue"
       },
       {
-        "title":"Web design case 04",
+        "title":"Web design case 03",
         "category":"The client is an agent company who helps customers to book accomodation and transport in a south east asia location.",
         "image":"website_profitlink.jpg",
         "url":"http://www.profitlinkvip.com/index_en.html",
         "bg":"blue"
       },
       {
-        "title":"Web design case 05",
+        "title":"Web design case 04",
         "category":"The client was a recreation department of the Hong Kong Government, which ran some entertainment show for family in summer.",
         "image":"website_iac.jpg",
         "bg":"blue"
       },
       {
-        "title":"Web design case 06",
+        "title":"Web design case 05",
         "category":"The client ran Chinese drama show for the public in Hong Kong and it needed a website which could express the Chinese traditional culture.",
         "image":"website_chidrama.jpg",
+        "bg":"blue"
+      },
+      {
+        "title":"Web design case 06",
+        "category":"The client was a beauty business company which request a feminine style design for the website.",
+        "image":"website_brava.jpg",
         "bg":"blue"
       },
       {
