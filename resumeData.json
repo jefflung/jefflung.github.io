@@ -197,21 +197,21 @@
       },
       {
         "title":"Web design case 03",
-        "category":"The client is an agent company who helps customers to book accomodation and transport in a south east asia location.",
-        "image":"website_profitlink.jpg",
-        "url":"http://www.profitlinkvip.com/index_en.html",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 04",
         "category":"The website is for Leisure and Cultural Services Department of Hong Kong Government to promote family shows in summer. With WCAG 2.0 Level AA standard.",
         "image":"website_iac.jpg",
         "bg":"blue"
       },
       {
-        "title":"Web design case 05",
+        "title":"Web design case 04",
         "category":"The website is for Leisure and Cultural Services Department of Hong Kong Government to promote Chinese operas. With WCAG 2.0 Level AA standard.",
         "image":"website_chidrama.jpg",
+        "bg":"blue"
+      },
+      {
+        "title":"Web design case 05",
+        "category":"The client is an agency who serves customers for booking accommodation and transport in a south east asia location.",
+        "image":"website_profitlink.jpg",
+        "url":"http://www.profitlinkvip.com/index_en.html",
         "bg":"blue"
       },
       {
