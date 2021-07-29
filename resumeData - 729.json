@@ -163,129 +163,22 @@
   "portfolio":{
     "projects": [
       {
-      "title":"Application task",
-      "category":"The task is finished on February 2021 for an accommodation agency in Manchester. This website is built with bootstrap, jquery plugins TweenMax, ScrollMagic, Jarallax for transition animation.",
-      "image":"website_hotel.jpg",
-      "url":"https://accommodation-demo.netlify.app",
-      "bg":"blue"
+      "src": "images/portfolio/website_hotel.jpg",
+      "thumbnail": "images/portfolio/website_hotel.jpg",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 174
       },
       {
-        "title":"Website update",
-        "category":"This client provides hair transplant service. The website is powered by a CMS system and Wordpress with which I update the content, artworks and revise the layout if necessary.",
-        "image":"website_nuhart.jpg",
-        "url":"https://www.nuhart.com.hk",
-        "bg":"blue"
+        "src": "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+        "thumbnail": "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_n.jpg",
+        "thumbnailWidth": 320,
+        "thumbnailHeight": 212
       },
       {
-        "title":"Web design case 01",
-        "category":"A website for Real Madrid kid training program in Hong Kong. I was responsible for the front-end coding like css.",
-        "image":"website_realmadrid.jpg",
-        "url":"http://frmclinicshk.com/",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 02(I)",
-        "category":"The client was a football club in Hong Kong, and it need a dynamic and modern style design.",
-        "image":"website_eastern1.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 02(II)",
-        "category":"Except the layout design, I also work the css style of the website.",
-        "image":"website_eastern2.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 03",
-        "category":"The website is for Leisure and Cultural Services Department of Hong Kong Government to promote family shows in summer. With WCAG 2.0 Level AA standard.",
-        "image":"website_iac.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 04",
-        "category":"The website is for Leisure and Cultural Services Department of Hong Kong Government to promote Chinese operas. With WCAG 2.0 Level AA standard.",
-        "image":"website_chidrama.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 05",
-        "category":"The client is an agency who serves customers for booking accommodation and transport in a south east asia location.",
-        "image":"website_profitlink.jpg",
-        "url":"http://www.profitlinkvip.com/index_en.html",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 06",
-        "category":"The client was a beauty business company which request a feminine style design for the website.",
-        "image":"website_brava.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 07",
-        "category":"The layout design is a gaming company which business is mainly based in Asia but has extended to Europe lately.",
-        "image":"website_gaming.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Logo design case 01",
-        "category":"This logo design is made when I work in an IT company which needed to update its branding.",
-        "image":"logo_design.jpg",
-        "bg":"red"
-      },
-      {
-        "title":"Logo design case 02",
-        "category":"The medical corporate company needed a logo for a new charity foundation, and I designed and prepared a color scheme for this project.",
-        "image":"logo_uws.jpg",
-        "bg":"red"
-      },
-      {
-        "title":"Souvenir design",
-        "category":"The scarf design is for a event by the worldwide charity group Plan.",
-        "image":"scarf_design.jpg",
-        "bg":"red"
-      },
-      {
-        "title":"App development flowchart",
-        "category":"This pre-release app is for hiring taxi. I was responsible for some artwork production for app and drawing the flow chart for development.",
-        "image":"app_taxi.jpg",
-        "bg":"green"
-      },
-      {
-        "title":"App wireframe",
-        "category":"The wireframe is drawn for concept development of a gaming app.",
-        "image":"wireframe_gaming.jpg",
-        "bg":"green"
-      },
-      {
-        "title":"Corporate brand value video",
-        "category":"This video is rendered with Maya and Mental Ray then composited with Aftereffect.",
-        "image":"3d_video.jpg",
-        "url":"https://youtu.be/cNJxIUNDPgA",
-        "bg":"orange"
-      },
-      {
-        "title":"Android mobile game demo",
-        "category":"The final project of my bachelor degree course. It is a playable demo with timer. I learnt much Unity3D and JavsScript through the production process. All assets are created by me.",
-        "image":"mobile_game.jpg",
-        "url":"https://youtu.be/i10G1FGAQBY",
-        "bg":"orange"
-      },
-      {
-        "title":"Low poly game character",
-        "category":"This character is optimized for running on general PC game with an animation demo.",
-        "image":"3d_1.jpg",
-        "url":"https://youtu.be/ZcUMXIn5reI",
-        "url2":"https://youtu.be/sVIJq5DNYuQ",
-        "bg":"orange"
-      },
-      {
-        "title":"House Transformer robot",
-        "category":"This robot was animated and rendered with Maya and Mental Ray. It is for a computer shop client website video.",
-        "image":"3d_2.jpg",
-        "url":"https://youtu.be/D3X3KK3ado4",
-        "url2":"https://youtu.be/8ggqDskmhGI",
-        "url3":"https://youtu.be/0YbGKuJoigE",
-        "bg":"orange"
+        "src": "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg",
+        "thumbnail": "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_n.jpg",
+        "thumbnailWidth": 320,
+        "thumbnailHeight": 212
       }
     ]
   },
