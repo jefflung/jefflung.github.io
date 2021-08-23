@@ -34,12 +34,12 @@
       100%{opacity:1;}
    }
     
-   .overlay{
+   /*.overlay{
       -webkit-animaition:flick 20s infinite;
       -moz-animation:flick 20s infinite;
       -o-animation: flick 20s infinite;
       animation:flick 20s infinite;
-   }
+   }*/
 }
 
 @media only screen and (min-width: 1024px) {
