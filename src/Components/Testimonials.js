@@ -22,7 +22,7 @@ class Testimonials extends Component {
          </div>
          <div className="text-container">
             <div className="row">
-               <div className="two columns header-col">
+               <div className="two columns header-col" data-aos="fade-right">
                   <h1><span>Testimonials</span></h1>
                </div>
 

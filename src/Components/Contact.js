@@ -17,7 +17,7 @@ class Contact extends Component {
     return (
       <section id="contact">
 
-         <div className="row section-head">
+         <div className="row section-head" data-aos="fade-right">
 
             <div className="columns header-col">
 
@@ -25,7 +25,7 @@ class Contact extends Component {
 
             </div>
 
-            <div className="">
+            <div>
 
                   <p className="lead" style={{marginTop:'20px',fontSize:'20px',color:'#fff'}}>
                      
@@ -52,6 +52,13 @@ class Contact extends Component {
                <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>
                   <ul id="twitter">
+                     <li>
+                        <span>
+                        Portfolio section was updated with the <a href="https://github.com/frontend-collective/react-image-lightbox" target="_blank">React Image Lightbox</a>. It is convenient and flexible that I could add the links easily with editing the component with HTML code.
+                        <a href="#" target="_blank"></a>
+                        </span>
+                        <b><a href="#">23 Aug, 2021</a></b>
+                     </li>
                      <li>
                         <span>
                         Descriptions of Portfolio boxes are enhanced with auto fade-in and fade-out effect for portable devices as description boxes were only toggled with mouse on for desktop computer. Besides, I really appreciate the convenience of React's easy passing data feature and this let me to add a css class dynamically in order to categorize portfolio boxes with different colors in a good hand. Above features is done in a day, thanks for React and CSS animation convenience

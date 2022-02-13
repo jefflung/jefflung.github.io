@@ -34,12 +34,12 @@
       100%{opacity:1;}
    }
     
-   .overlay{
+   /*.overlay{
       -webkit-animaition:flick 20s infinite;
       -moz-animation:flick 20s infinite;
       -o-animation: flick 20s infinite;
       animation:flick 20s infinite;
-   }
+   }*/
 }
 
 @media only screen and (min-width: 1024px) {
@@ -237,7 +237,8 @@
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
       font: 16px/1.9em 'opensans-regular', sans-serif;
-      width: 85%;ibr
+      font-weight: bold;
+      width: 85%;
    }
    header .banner-text hr {
       width: 80%;
@@ -410,6 +411,7 @@
    }
    header .banner-text h3 {
       font: 14px/1.9em 'opensans-regular', sans-serif;
+      font-weight: bold;
       width: 90%;
    }
   

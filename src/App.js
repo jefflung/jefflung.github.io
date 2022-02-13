@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
+import AOS from "aos";
+import "aos/dist/aos.css";
+
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
@@ -42,6 +45,13 @@ class App extends Component {
 
   componentDidMount(){
     this.getResumeData();
+    setTimeout(function() {
+      AOS.init({
+         duration: 800,
+         easing: 'ease',
+         once: false
+      });
+     }, 800 );
   }
 
   render() {
@@ -51,6 +61,7 @@ class App extends Component {
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
+        {/*<Portfolio/>*/}
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Skills data={this.state.resumeData.resume}/>
         <Contact data={this.state.resumeData.main}/>

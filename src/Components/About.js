@@ -1,15 +1,16 @@
 import React, { Component } from 'react';
 
+
 class About extends Component {
   render() {
 
     if(this.props.data){
       var fullname = this.props.data.fullname;
       var profilepic= "images/"+this.props.data.image;
-      var profilepic2= "images/"+this.props.data.image2;
+      
       var bio = this.props.data.bio;
       var bio2 = this.props.data.bio2;
-      var bio3 = this.props.data.bio3;
+      
       var bio4 = this.props.data.bio4;
       var bio5 = this.props.data.bio5;
       var street = this.props.data.address.street;
@@ -26,19 +27,19 @@ class About extends Component {
       <div className="row">
          <div className="three columns propic">
             <p>
-            <img className="profile-pic"  src={profilepic} alt="Jeff Lung Profile Pic" />
+            <img className="profile-pic" src={profilepic} alt="Jeff Lung Profile Pic" data-aos="fade-right"/>
             </p>
-            <p style={{marginTop:"250px"}}>
-            <img className="profile-pic"  src={profilepic2} alt="Jeff Lung Profile Pic2" />
-            </p>
+            {/*<p style={{marginTop:"250px"}}>
+            <img className="profile-pic" src={profilepic2} alt="Jeff Lung Profile Pic2" data-aos="fade-right"/>
+    </p>*/}
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
             <p>{bio}</p>
-            <p>{bio2}</p>
+            {/*<p>{bio2}</p>
             <p>{bio3}</p>
-            {/*<p>{bio4}</p>
+            <p>{bio4}</p>
             <p>{bio5}</p>*/}
             <div className="row">
                <div className="columns contact-details">

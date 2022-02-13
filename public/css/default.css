@@ -451,7 +451,7 @@ img.pull-right { margin: 12px 0px 0px 18px; }
 img.pull-left { margin: 12px 18px 0px 0px; }
 
 /*  6. Buttons  --------------------------------------------------------- */
-
+/*
 .button,
 .button:visited,
 button,
@@ -511,12 +511,14 @@ input[type="button"].full-width {
 	text-align: center;
 }
 
-/* Fix for odd Mozilla border & padding issues */
+*/
+
+/* Fix for odd Mozilla border & padding issues 
 button::-moz-focus-inner,
 input::-moz-focus-inner {
     border: 0;
     padding: 0;
-}
+}*/
 
 
 /*  7. Forms  --------------------------------------------------------- */

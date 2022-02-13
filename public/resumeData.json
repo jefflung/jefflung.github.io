@@ -5,14 +5,14 @@
     "occupation":"Designer",
     "description":"Welcome to my portfolio website which is enhanced by React JS and hosted on Github",
     "image":"profilepic.jpg",
-    "image2":"profilepic2.jpg",
-    "bio":"I am an experienced designer who has worked in different positions of creative business before, like Graphic Designer, Multimedia Designer and Web Designer through my 20 years career life. The first company I worked for was an Advertising company in Hong Kong. I learnt a lot of basic knowledge from this work in the almost 9 years work time, from Graphic Design, Web Design and Development, Animation, and Video editing. Moreover, the second company was a corporate company in medical business in Hong Kong, and I have obtained the substantial design experience for a large-scale corporate. Furthermore, my latest work position was a Web Designer which provided me a chance to work with web technology on the Front-end part.",
+    
+    "bio":"I am an experienced designer who has worked in different positions of creative business before, like Graphic Designer, Multimedia Designer and Web Designer. Through my 20 years career life, I have worked for advertising agency, medical corporate company and both of small and large scale IT company. It is my pleasure to see my previous company growing from a start-up with 20 staffs to an IT compnay with over 100 staffs after I have worked as a Web Designer for 7 years.",
     "bio2":"I am competent with most of the Adobe suite softwares, like Photoshop, Illustrator, XD, Aftereffect, Animate and Dreamweaver. Moreover, I also worked by using Maya, from modelling to the rendering procedures. For coding languages, I am familiar with HTML, CSS, Jquery. I am still improving my JavaScript and ReactJs knowledge.",
-    "bio3":"In my pastime, I like to explore up-to-date techniques of website coding because I enjoy to express the aesthetics through the web media, such as animation and the website layout. Recently, I am keeping to enhance my React knowledge and I also explore the 3D framework for React, React Three Fiber. On the other hand, I am into visiting the event about up-to-date web and media technology, such as the Siggraph Asia. Actually, I have attended this event several times when it was held in Singapore, Hong Kong and Macau, and I enjoyed the content about latest technology for web, Computer Graphic and game.",
+    
     "bio4":"On the other hand, I love movie and video game as well. The other person I admire a lot is a Japanese video game creator, Hideo Kojima, as he is a pioneer combining video game interaction into a deeply story telling approach. Through playing Kojima's Metal Gear Solid series, I started to concentrate more on storytelling and camera work in video game, and GTA from episode IV is also my favourite. Afterwards, I enjoy immerse myself in video game with a convoluted plot and compelling dialogues, because I could experience with movie in a playful way and this is immersive for me to another world. All in all, I believe as a designer, we could convey our message with different kind of media such as website, video, game with some sort of storytelling approach.",
     "bio5":"Otherwise, I like doing exercise like jogging and Tai Chi also. As I could sweat a lot while I am jogging and this could rejuvenate my mind and body, while Tai Chi could help my mind to be refreshed and staying calm which could help a better state for work.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "nosy_parker@msn.com",
+    "email": "jeff.lung.yk@gmail.com",
     "phone": "0790 754 6197",
     "address":{
       "street":"",
@@ -79,11 +79,13 @@
         "description":"This course started from Graphic Design theory to software applications for graphic design, web development and video editing. It helped me to build a solid fundamental knowledge for my designer career."
       }
     ],
+    "image2":"profilepic2.jpg",
+    "bio3":"In my pastime, I like to explore up-to-date techniques of website coding because I enjoy to express the aesthetics through the web media, such as animation and the website layout. Recently, I am keeping to enhance my React knowledge and I also explore the 3D framework for React, React Three Fiber. On the other hand, I am into visiting the events about up-to-date web and media technology, such as the Siggraph Asia. Actually, I have attended this event several times when it was held in Singapore, Hong Kong and Macau, and I enjoyed the content about latest technology for web, Computer Graphic and game. Otherwise, I like jogging and Tai Chi, as they could help me to rejuvenate and relax.",
     "work":[
       {
-        "company":"Freelancer",
+        "company":"Hong Kong NuHart Medical Hair Transplant Centre",
         "url":"https://www.nuhart.com.hk",
-        "title":"Web Designer",
+        "title":"Freelance Web Designer",
         "years":"October 2011 - Present",
         "description":"Wordpress website layout revision and update content, Website artworks design and production, physical banner design for printing"
       },
@@ -111,13 +113,13 @@
         "company":"Town Health Management and Services Limited",
         "url":"https://www.townhealth.com/en/Default.aspx",
         "title":"Graphic Designer",
-        "years":"July 2009 - October 2011",
+        "years":"August 2009 - October 2011",
         "description":"In this medical corporate group, my works included Graphic Design, Website assets development and update, 3D animation and Video editing."
       },
       {
         "company":"Next Dimension Advertising (HK) Ltd.",
         "title":"Multimedia Designer",
-        "years":"April 2001 - June 2009",
+        "years":"April 2001 - July 2009",
         "description":"In this advertising agency company, I have worked with a variety of projects like video ad, web game, printing ad and website. My works included general multimedia design basic level tasks, like graphic design, web design, video editing and animation."
       }
     ],
@@ -163,129 +165,27 @@
   "portfolio":{
     "projects": [
       {
-      "title":"Task of Web Designer",
-      "category":"The task is finished on February 2021 for an accommodation promotion in Manchester. This website is built with bootstrap, jquery plugins TweenMax, ScrollMagic, Jarallax for transition animation.",
-      "image":"website_hotel.jpg",
-      "url":"https://accommodation-demo.netlify.app",
-      "bg":"blue"
+      "src": "images/portfolio/website_hotel.jpg",
+      "thumbnail": "images/portfolio/website_hotel.jpg",
+      "thumbnailWidth": 212,
+      "thumbnailHeight": 174,
+      "tags": [{"value": "`<a href=\"www.google.com\" target=\"_blank\">test</a>`","title":"barbar","key":"3"}],
+      "caption":"interviewed by",
+      "url":"www.google.com"
       },
       {
-        "title":"Website update",
-        "category":"This client provides hair transplant service. The website is powered by a CMS system and Wordpress with which I update the content, artworks and revise the layout if necessary.",
-        "image":"website_nuhart.jpg",
-        "url":"https://www.nuhart.com.hk",
-        "bg":"blue"
+        "src": "images/portfolio/nuhart.gif",
+        "thumbnail": "images/portfolio/nuhart.jpg",
+        "thumbnailWidth": 249,
+        "thumbnailHeight": 174,
+        "caption":"Situation: Scarf souvenir design for a charity event of Plan. \n Action: After researching and design with Illustrator. \n Result: Design with a vibe of conciseness is achieved."
       },
       {
-        "title":"Web design case 01",
-        "category":"The client was a beauty business company which request a feminine style design for the website.",
-        "image":"website_brava.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 02",
-        "category":"A website for Real Madrid kid training program in Hong Kong. I was responsible for the front-end coding like css.",
-        "image":"website_realmadrid.jpg",
-        "url":"http://frmclinicshk.com/",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 03(I)",
-        "category":"The client was a football club in Hong Kong, and it need a dynamic and modern style design.",
-        "image":"website_eastern1.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 03(II)",
-        "category":"Except the layout design, I also work the css style of the website.",
-        "image":"website_eastern2.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 04",
-        "category":"The client is an agent company who helps customers to book accomodation and transport in a south east asia location.",
-        "image":"website_profitlink.jpg",
-        "url":"http://www.profitlinkvip.com/index_en.html",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 05",
-        "category":"The client was a recreation department of the Hong Kong Government, which ran some entertainment show for family in summer.",
-        "image":"website_iac.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 06",
-        "category":"The client ran Chinese drama show for the public in Hong Kong and it needed a website which could express the Chinese traditional culture.",
-        "image":"website_chidrama.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Web design case 07",
-        "category":"The layout design is a gaming company which business is mainly based in Asia but has extended to Europe lately.",
-        "image":"website_gaming.jpg",
-        "bg":"blue"
-      },
-      {
-        "title":"Logo design case 01",
-        "category":"This logo design is made when I work in an IT company which needed to update its branding.",
-        "image":"logo_design.jpg",
-        "bg":"red"
-      },
-      {
-        "title":"Logo design case 02",
-        "category":"The medical corporate company needed a logo for a new charity foundation, and I designed and prepared a color scheme for this project.",
-        "image":"logo_uws.jpg",
-        "bg":"red"
-      },
-      {
-        "title":"Souvenir design",
-        "category":"The scarf design is for a event by the worldwide charity group Plan.",
-        "image":"scarf_design.jpg",
-        "bg":"red"
-      },
-      {
-        "title":"App development flowchart",
-        "category":"This pre-release app is for hiring taxi. I was responsible for some artwork production for app and drawing the flow chart for development.",
-        "image":"app_taxi.jpg",
-        "bg":"green"
-      },
-      {
-        "title":"App wireframe",
-        "category":"The wireframe is drawn for concept development of a gaming app.",
-        "image":"wireframe_gaming.jpg",
-        "bg":"green"
-      },
-      {
-        "title":"Corporate brand value video",
-        "category":"This video is rendered with Maya and Mental Ray then composited with Aftereffect.",
-        "image":"3d_video.jpg",
-        "url":"https://youtu.be/cNJxIUNDPgA",
-        "bg":"orange"
-      },
-      {
-        "title":"Android mobile game demo",
-        "category":"The final project of my bachelor degree course. It is a playable demo with timer. I learnt much Unity3D and JavsScript through the production process. All assets are created by me.",
-        "image":"mobile_game.jpg",
-        "url":"https://youtu.be/i10G1FGAQBY",
-        "bg":"orange"
-      },
-      {
-        "title":"Low poly game character",
-        "category":"This character is optimized for running on general PC game with an animation demo.",
-        "image":"3d_1.jpg",
-        "url":"https://youtu.be/ZcUMXIn5reI",
-        "url2":"https://youtu.be/sVIJq5DNYuQ",
-        "bg":"orange"
-      },
-      {
-        "title":"House Transformer robot",
-        "category":"This robot was animated and rendered with Maya and Mental Ray. It is for a computer shop client website video.",
-        "image":"3d_2.jpg",
-        "url":"https://youtu.be/D3X3KK3ado4",
-        "url2":"https://youtu.be/8ggqDskmhGI",
-        "url3":"https://youtu.be/0YbGKuJoigE",
-        "bg":"orange"
+        "src": "images/portfolio/real.jpg",
+        "thumbnail": "images/portfolio/real.jpg",
+        "thumbnailWidth": 308,
+        "thumbnailHeight": 174,
+        "caption":"Situation: Scarf souvenir design for a charity event of Plan. \n Action: After researching and design with Illustrator. \n Result: Design with a vibe of conciseness is achieved."
       }
     ]
   },

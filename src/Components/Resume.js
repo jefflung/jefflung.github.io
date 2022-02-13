@@ -25,7 +25,7 @@ class Resume extends Component {
       <div className="row work">
 
          <div className="three columns header-col">
-            {/*<h1><span>Work</span></h1>*/}<img className="workimg" src="images/work.svg"/>
+            {/*<h1><span>Work</span></h1>*/}<img className="workimg" src="images/work.svg" data-aos="fade-up"/>
          </div>
 
          <div className="nine columns main-col">
@@ -34,8 +34,8 @@ class Resume extends Component {
     </div>
       <div className="curve"><img src="images/resume_curve.svg"/></div>
     <div className="row education">
-         <div className="three columns header-col">
-            {/*<h1><span>Education</span></h1>*/}<img className="educationimg" src="images/education.svg"/>
+         <div className="three columns header-col" id="work">
+            {/*<h1><span>Education</span></h1>*/}<img className="educationimg" src="images/education.svg" data-aos="fade-up"/>
          </div>
 
          <div className="nine columns main-col">
