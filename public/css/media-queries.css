@@ -277,7 +277,8 @@
    }
    #resume h1 { letter-spacing: 3px; }
    #resume .main-col { padding-right: 30px; text-align: center; }
-   #resume h3, #resume .info { text-align: center; }
+   #resume h3 { text-align: center; }
+   #resume .info { text-align: left; }
    #resume p {text-align: left;}
    .bars { width: 100%; }
 
@@ -303,7 +304,7 @@
 
    #portfolio .works{ 
       width: 50%;
-      margin: 0 auto 10px;
+      margin: 20px auto 20px;
       display: block;
    }
 
@@ -324,6 +325,7 @@
       font-size: 20px;
       line-height: 42px;      
    }
+   #testimonials .svg {width: 70%;}
 
    /* Control Nav */
    .flex-control-nav {
@@ -348,10 +350,12 @@
       margin-bottom: 30px;
       /*text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);*/
    }  
+   #contact h1 {margin-top: 20px;}
    #contact h1 span { display: block; }
    #contact .header-col { padding-top: 0; }
    #contact .header-col h1:before { content: none;	}
    #contact .section-head p.lead { text-align: center;}
+   #contact .getintouch {text-align: center;}
 
    /* form */
    #contact label {

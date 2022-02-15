@@ -33,13 +33,16 @@ class Resume extends Component {
 					</ul>
     </div>*/}
 
-            <p><b>Operating Systems</b>: Windows, Mac</p>
-            <p><b>Applications</b>: Adobe Suite (Photoshop, Illustrator, XD, Dreamweaver, Aftereffect, Media Encoder)<br />
-                Visual Studio Code, Sourcetree, Autodesk Maya, Unity, MS Office/Outlook
+            <p>
+              <span><b>Applications</b>: XD, Figma, Visual Studio Code, Dreamweaver, Sourcetree,
+              Photoshop, Illustrator, Aftereffect, Maya, Unity, MS Office</span><br />
+              <span><b>Coding</b>: Javascript, JQuery, HTML, CSS, Bootstrap.
+              ReactJs, Python and SQLite (elementary level)</span><br />
+              <span><b>Online Collaboration Tool</b>: Miro, Mural</span><br />
+              <span><b>Online Platforms</b>: Git, Wordpress (editing), Netlify(Elementary level)</span><br />
+              <span><b>Operating Systems</b>: Windows, Mac</span><br />
+              <span><b>Languages</b>: Fluent in English (speaking and writing), Native in Cantonese</span>
             </p>
-            <p><b>Coding</b>: HTML, CSS, Bootstrap, JQuery, Javascript and ReactJs (Elementary level)</p>
-            <p><b>Platforms</b>: Wordpress (update content/layout editing), Git, Netlify (Elementary level)</p>
-            <p><b>Languages</b>: Fluent in English (speaking and writing), Native in Cantonese</p>
         </div>
           <div className="three columns propic" >
             <p>

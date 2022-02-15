@@ -20,6 +20,7 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var github = this.props.data.github;
     }
 
     return (
@@ -46,10 +47,10 @@ class About extends Component {
                   <h2 className="contact">Contact Details</h2>
                   <p className="address">
 						   <span><i className="fa fa-user"></i> {fullname}</span><br />
-						   <span><i className="fa fa-home"></i> {city}
-                   </span><br />
+						   <span><i className="fa fa-home"></i> {city}</span><br />
 						   {/*<span><i className="fa fa-phone"></i> {phone}</span><br />*/}
-                     <span><a href="mailto:nosy_parker@msn.com"><i className="fa fa-envelope"></i> {email}</a></span>
+                     <span><a href="mailto:nosy_parker@msn.com" target="_blank"><i className="fa fa-envelope"></i> {email}</a></span><br />
+                     <span><a href="https://github.com/jefflung" target="_blank"><i className="fa fa-github"></i> {github}</a></span>
 					   </p>
                </div>
                {/*<div className="columns download">

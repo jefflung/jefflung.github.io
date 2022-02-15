@@ -472,15 +472,15 @@ ul#nav li.current a { color: #00f6ff; }
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #53b9ea; }
-#about a:hover, #about a:focus { color: #00f6ff; }
+#about a, #about a:visited  { color: #0083d1; }
+#about a:hover, #about a:focus { color: #0083d1; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #eceee3;
    margin-bottom: 12px;
 }
-#about .contact{color: #53b9ea}
+#about .contact{color: #0083d1}
 #about p {
    line-height: 30px;
    color: #fff;
@@ -509,15 +509,16 @@ ul#nav li.current a { color: #00f6ff; }
    margin-right: 15px;
    font-size: 20px;
 }
-#about .address {color:#53b9ea}
+#about .address {color:#0083d1}
+#about .fa-home, .fa-github {font-size: 18px;}
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fdfff6;
-   padding-top: 90px;
+   background: linear-gradient(rgba(253,255,246,1) 0%, rgba(188,240,255,1) 89%, rgba(120,218,255,1) 100%);
+   padding-top: 50px;
    padding-bottom: 72px;
    overflow: hidden;
 }
@@ -552,7 +553,7 @@ ul#nav li.current a { color: #00f6ff; }
    border-bottom: 1px solid #E8E8E8;*/
 }
 .curve{margin-bottom: 5vh;}
-#resume p {color:#959890;}
+#resume p {color:#6c6c6c;}
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    margin-bottom: 18px;
@@ -598,6 +599,7 @@ ul#nav li.current a { color: #00f6ff; }
 	padding: 0;
 	text-align: left;
 }
+#skills span{ margin-bottom: 5px;}
 .bars .skills {
   	margin-top: 36px;
    list-style: none;
@@ -646,6 +648,9 @@ ul#nav li.current a { color: #00f6ff; }
    line-height: 30px;
    color: #fff;
    font-weight: normal;
+}
+#skills b{
+   font-size: 16px;
 }
 /*
 .git {
@@ -740,7 +745,7 @@ ul#nav li.current a { color: #00f6ff; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: linear-gradient(to top, rgb(0 131 181), rgb(253 255 246));
+   background: #fdfff6;
    padding-bottom: 60px;
 }
 #portfolio h1 {
@@ -753,15 +758,14 @@ ul#nav li.current a { color: #00f6ff; }
 }
 #portfolio .works{ 
    width: 25%;
-   margin: 0 auto 10px;
+   margin: 20px auto 20px;
    display: block;
 }
 #portfolio .updatedsoon{
    padding: 0 20px;
-   color: #eceee3;
+   color: #48baf1;
    font-weight:bold;
    display: inline-flex;
-   margin-top: 70px;
 }
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
@@ -775,6 +779,9 @@ ul#nav li.current a { color: #00f6ff; }
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+
+   -webkit-filter: drop-shadow(0px 0px 1px #777);
+   filter: drop-shadow(0px 0px 1px #777);
 }
 .portfolio-item .item-wrap a {
    display: block;
@@ -802,7 +809,13 @@ ul#nav li.current a { color: #00f6ff; }
 }
 
 .portfolio-item .item-wrap .overlay{
-   background-color: rgba(255, 255, 255, 0.2)
+   background-color: rgba(0, 140, 255, 0.8);
+   display: flex;
+   text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
 }
 
 .portfolio-item .item-wrap .link-icon {
@@ -989,7 +1002,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: linear-gradient(to bottom, rgb(32 194 255 / 90%), rgb(204 255 250 / 60%)), url(../images/testimonials-bg.jpg) no-repeat top center;
+   background: linear-gradient(to bottom, rgb(32 194 255 / 90%), rgb(204 255 250 / 0%)), url(../images/testimonials-bg.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -1010,7 +1023,7 @@ call-to-action .button {
    color: #fff;
 }
 #testimonials h1 span { display: none; }
-#testimonials .header-col { padding-top: 9px; }
+#testimonials .header-col { padding-top: 9px; margin-bottom: 48px;}
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
@@ -1035,7 +1048,7 @@ call-to-action .button {
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: #eceee3;
+   color: #fff;
 }
 #testimonials blockquote cite {
    display: block;
@@ -1159,10 +1172,12 @@ call-to-action .button {
    text-transform: uppercase;
    /*letter-spacing: 3px;*/
    color: #eceee3;
-   margin-bottom: 6px;
+   margin-bottom: 0px;
+   margin-top: 0px;
 }
 #contact h1 span { display: none; }
-#contact h1:before {
+#contact .fa-envelope {margin-right: 5px;}
+/*#contact h1:before {
    font-family: 'FontAwesome';
    content: "\f0e0";
 	padding-right: 0px;
@@ -1171,7 +1186,7 @@ call-to-action .button {
    text-align: left;
    float: left;
    color: #ebeeee;
-}
+}*/
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
@@ -1183,7 +1198,7 @@ call-to-action .button {
    padding-right: 3%;
 }
 #contact .header-col { padding-top: 6px; }
-
+#contact .widget_contact{margin-bottom: 40px;}
 
 /* contact form */
 #contact form { margin-bottom: 30px; }

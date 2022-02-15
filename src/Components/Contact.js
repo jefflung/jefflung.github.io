@@ -17,24 +17,7 @@ class Contact extends Component {
     return (
       <section id="contact">
 
-         <div className="row section-head" data-aos="fade-right">
-
-            <div className="columns header-col">
-
-               <h1><span>Get In Touch</span></h1>
-
-            </div>
-
-            <div>
-
-                  <p className="lead" style={{marginTop:'20px',fontSize:'20px',color:'#fff'}}>
-                     
-                     <a href="mailto:nosy_parker@msn.com">{email}</a>
-                  </p>
-
-            </div>
-
-         </div>
+         
 
          <div className="row">
 
@@ -42,12 +25,23 @@ class Contact extends Component {
                <div className="widget widget_contact">
 
 					   <h4>Contact details</h4>
-					   <p className="address">
+					   
                      <i className="fa fa-user"></i> {fullname}<br />
 						   <i className="fa fa-home"></i> {street}{city}<br />
 						   {/*<span><i className="fa fa-phone"></i> {phone}</span>*/}
-					   </p>
+					   
+                     <div data-aos="fade-right" className='getintouch'>
+                  
+                     <h1><span>Get In Touch</span></h1>
+                  
+                  
+                  <i className="fa fa-envelope"></i>
+                        <a href="mailto:nosy_parker@msn.com" target="_blank">{email}</a>
+                     
+                     
+                     </div>
 				   </div>
+
 
                <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>

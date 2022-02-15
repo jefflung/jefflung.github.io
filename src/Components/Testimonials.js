@@ -22,9 +22,9 @@ class Testimonials extends Component {
          </div>
          <div className="text-container">
             <div className="row">
-               <div className="two columns header-col" data-aos="fade-right">
-                  <h1><span>Testimonials</span></h1>
-               </div>
+               <div className="two columns header-col" id="testimonial">
+            <img className="svg" src="images/testimonial.svg" data-aos="fade-up"/>
+         </div>
 
                <div className="ten columns flex-container">
                   <ul className="slides">
