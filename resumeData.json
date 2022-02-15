@@ -6,17 +6,18 @@
     "description":"Welcome to my portfolio website which is enhanced by React JS and hosted on Github",
     "image":"profilepic.jpg",
     
-    "bio":"I am an experienced designer who has worked in different positions of creative business before, like Graphic Designer, Multimedia Designer and Web Designer. Through my 20 years career life, I have worked for advertising agency, medical corporate company and both of small and large scale IT company. It is my pleasure to see my previous company growing from a start-up with 20 staffs to an IT compnay with over 100 staffs after I have worked as a Web Designer for 7 years.",
+    "bio":"An experienced web designer. I completed Skills Bootcamp in Digital with Manchester Metropolitan University in January 2022. I am looking for a role of Web Design. Besides, I am also seeking a junior role as a route into the UX Design industry. I am eager to learn from experienced UX Designers and to learn new tools, technologies and methodologies, in order to become an effective member of a UX Design team.",
     "bio2":"I am competent with most of the Adobe suite softwares, like Photoshop, Illustrator, XD, Aftereffect, Animate and Dreamweaver. Moreover, I also worked by using Maya, from modelling to the rendering procedures. For coding languages, I am familiar with HTML, CSS, Jquery. I am still improving my JavaScript and ReactJs knowledge.",
     
     "bio4":"On the other hand, I love movie and video game as well. The other person I admire a lot is a Japanese video game creator, Hideo Kojima, as he is a pioneer combining video game interaction into a deeply story telling approach. Through playing Kojima's Metal Gear Solid series, I started to concentrate more on storytelling and camera work in video game, and GTA from episode IV is also my favourite. Afterwards, I enjoy immerse myself in video game with a convoluted plot and compelling dialogues, because I could experience with movie in a playful way and this is immersive for me to another world. All in all, I believe as a designer, we could convey our message with different kind of media such as website, video, game with some sort of storytelling approach.",
     "bio5":"Otherwise, I like doing exercise like jogging and Tai Chi also. As I could sweat a lot while I am jogging and this could rejuvenate my mind and body, while Tai Chi could help my mind to be refreshed and staying calm which could help a better state for work.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jeff.lung.yk@gmail.com",
+    "github": "https://github.com/jefflung",
     "phone": "0790 754 6197",
     "address":{
       "street":"",
-      "city":"Manchester",
+      "city":"Salford, Manchester",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
@@ -52,7 +53,7 @@
         "school":"Coventry University (Jointly run in Hong Kong)",
         "degree":"BSc Hons in Creative Technologies",
         "graduated":"November 2012",
-        "description":"Through this program, I learnt usability, coding skill, multimedia softwares advanced usage, marketing skill through a movie business model. The final project gave me a chance to learn Unity3D to create my first short mobile game demo in Android."
+        "description":"Through this degree course, I learnt usability, coding skill, multimedia softwares advanced usage, marketing skill through a movie business model. The final project gave me a chance to learn Unity3D to create my first short mobile game demo in Android."
       },
       {
         "school":"School for Higher and Professional Education of VTC",
@@ -64,63 +65,93 @@
         "school":"City University of Hong Kong",
         "degree":"Certificate in 3D Computer Animation and Modeling",
         "graduated":"2004",
-        "description":"This program covered general knowledge for using Maya from modeling to rendering, we could make motion graphic animation in the course."
+        "description":"This program covered general knowledge for using Maya from modeling to rendering. I have learnt creating motion graphic like logo animation in the course."
       },
       {
         "school":"City University of Hong Kong",
         "degree":"Master Class in Character Animation",
         "graduated":"2004",
-        "description":"This program taught me building realistic character in Maya and create animation with it. The lecturer usded Bruce Lee as the model as he is well known for making 3D animation with this movie star."
+        "description":"I have learnt how to build a realistic character in Maya and create animation with it. The skills could be applied on animation and game."
       },
       {
         "school":"Hong Kong University of Science and Technology",
         "degree":"Diploma in Multimedia Design",
         "graduated":"2003",
-        "description":"This course started from Graphic Design theory to software applications for graphic design, web development and video editing. It helped me to build a solid fundamental knowledge for my designer career."
+        "description":"This course covered from Graphic Design theory to software applications for graphic design, web development and video editing. It helped me to build a solid fundamental knowledge for my designer career."
       }
     ],
     "image2":"profilepic2.jpg",
     "bio3":"In my pastime, I like to explore up-to-date techniques of website coding because I enjoy to express the aesthetics through the web media, such as animation and the website layout. Recently, I am keeping to enhance my React knowledge and I also explore the 3D framework for React, React Three Fiber. On the other hand, I am into visiting the events about up-to-date web and media technology, such as the Siggraph Asia. Actually, I have attended this event several times when it was held in Singapore, Hong Kong and Macau, and I enjoyed the content about latest technology for web, Computer Graphic and game. Otherwise, I like jogging and Tai Chi, as they could help me to rejuvenate and relax.",
     "work":[
       {
-        "company":"Hong Kong NuHart Medical Hair Transplant Centre",
+        "company":"Skills Bootcamp in Digital",
+        "url":"https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamps-in-digital-october-2021/",
+        "title":"Digital bootcamp learner",
+        "years":"October 2021 - January 2022",
+        "type":"Subjects:",
+        "responsibilities":"A range of interdisciplinary areas such as Employability and Business Readiness, Computing Fundamentals, Technical Sales Innovation, Tech for Good, Cyber Security, Business and Entrepreneurship",
+        "skills":"Python, C#, Unity3D, SQLite, Database, HTML, CSS, UX Design, Cyber Security"
+      },
+      {
+        "company":"Google UX Design certificate",
+        "url":"https://grow.google/certificates/ux-design/",
+        "title":"UX Design learner",
+        "years":"August 2021 - November 2021",
+        "type":"Subjects:",
+        "responsibilities":"Foundations of UX Design, Start the UX Design Process - Empathize, Define, Ideate, Build Wireframes and Low-Fidelity Prototypes, Conduct UX Research and Test Early Concepts",
+        "skills":"User research, personas, user journey map, problem statements, paper wireframe, digital wireframe, low-fidelity prototype, and usability studies"
+      },
+      {
+        "company":"NuHart Medical Hair Transplant Centre",
         "url":"https://www.nuhart.com.hk",
         "title":"Freelance Web Designer",
         "years":"October 2011 - Present",
-        "description":"Wordpress website layout revision and update content, Website artworks design and production, physical banner design for printing"
+        "type":"Responsibilities:",
+        "responsibilities":"Wordpress website update, Website artworks design and production, Advertising banners design",
+        "skills":"Editing with Wordpress and PHP, HTMl, CSS, Photoshop, Illustrator"
       },
       {
         "company":"Dreamshub Limited",
         "url":"https://www.dreamshub.com",
         "title":"Web Designer",
         "years":"September 2013 - October 2020",
-        "description":"This IT company provides different kind of services like front end design and development, backend support, and branding. My works included Web Design and Front-end Development, UI Design, Website animation."
+        "type":"Responsibilities:",
+        "responsibilities":"Web Design and Front-end Development, UI Design, Website animation, Web banners production",
+        "skills":"Jquery, Bootstrap, Sourcetree(Git), HTML, CSS, Photoshop, Illustrator"
       },
       {
         "company":"Infin Media Company Ltd.",
         "url":"https://www.infinmedia.net/",
         "title":"Multimedia Designer",
         "years":"March 2013 - August 2013",
-        "description":"In this small scale IT company, I have worked some websites of Leisure and Cultural Services Department in Hong Kong. My works included Web Design and Development, UI Design."
+        "type":"Responsibilities:",
+        "responsibilities":"Projects of Leisure and Cultural Services Department conformed with WCAG standard 2.1, Web Design and Development, UI Design",
+        "skills":"Bootstrap, HTML, CSS, Photoshop, Illustrator"
       },
       {
         "company":"Freelancer",
         "title":"Multimedia Designer",
         "years":"October 2011 - March 2013",
-        "description":"During this period, I was studying a degree course and doing freelance design job. My works included Web Design and Development, UI Design, 3D animation."
+        "type":"Responsibilities:",
+        "responsibilities":"Web Design and Development, UI Design, 3D animation",
+        "skills":"HTML, CSS, Photoshop, Illustrator, Maya, Aftereffect"
       },
       {
         "company":"Town Health Management and Services Limited",
         "url":"https://www.townhealth.com/en/Default.aspx",
         "title":"Graphic Designer",
         "years":"August 2009 - October 2011",
-        "description":"In this medical corporate group, my works included Graphic Design, Website assets development and update, 3D animation and Video editing."
+        "type":"Responsibilities:",
+        "responsibilities":"Graphic Design for clinic printing materials, assets development and update for medical websites, 3D animation and video editing",
+        "skills":"HTML, CSS, Flash, Photoshop, Illustrator, Maya, Aftereffect"
       },
       {
         "company":"Next Dimension Advertising (HK) Ltd.",
         "title":"Multimedia Designer",
         "years":"April 2001 - July 2009",
-        "description":"In this advertising agency company, I have worked with a variety of projects like video ad, web game, printing ad and website. My works included general multimedia design basic level tasks, like graphic design, web design, video editing and animation."
+        "type":"Responsibilities:",
+        "responsibilities":"A variety of projects like printing and video advertisements, web game, website. General multimedia design basic tasks like graphic design, web design, video editing and animation.",
+        "skills":"HTML, CSS, Flash, Photoshop, Illustrator, Maya, Aftereffect"
       }
     ],
     "skills":[
