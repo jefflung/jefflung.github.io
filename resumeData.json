@@ -6,7 +6,7 @@
     "description":"Welcome to my portfolio website which is enhanced by React JS and hosted on Github",
     "image":"profilepic.jpg",
     
-    "bio":"An experienced web designer. I completed Skills Bootcamp in Digital with Manchester Metropolitan University in January 2022. I am looking for a role of Web Design. Besides, I am also seeking a junior role as a route into the UX Design industry. I am eager to learn from experienced UX Designers and to learn new tools, technologies and methodologies, in order to become an effective member of a UX Design team.",
+    "bio":"An experienced web designer. I completed a Software Development Bootcamp course with JustIT in January 2023. I am looking for a role of Web Design. Besides, I am also seeking a junior role as a route into the UX Design industry. I am eager to learn from experienced UX Designers and to learn new tools, technologies and methodologies, in order to become an effective member of a UX Design team.",
     "bio2":"I am competent with most of the Adobe suite softwares, like Photoshop, Illustrator, XD, Aftereffect, Animate and Dreamweaver. Moreover, I also worked by using Maya, from modelling to the rendering procedures. For coding languages, I am familiar with HTML, CSS, Jquery. I am still improving my JavaScript and ReactJs knowledge.",
     
     "bio4":"On the other hand, I love movie and video game as well. The other person I admire a lot is a Japanese video game creator, Hideo Kojima, as he is a pioneer combining video game interaction into a deeply story telling approach. Through playing Kojima's Metal Gear Solid series, I started to concentrate more on storytelling and camera work in video game, and GTA from episode IV is also my favourite. Afterwards, I enjoy immerse myself in video game with a convoluted plot and compelling dialogues, because I could experience with movie in a playful way and this is immersive for me to another world. All in all, I believe as a designer, we could convey our message with different kind of media such as website, video, game with some sort of storytelling approach.",
@@ -84,19 +84,19 @@
     "bio3":"In my pastime, I like to explore up-to-date techniques of website coding because I enjoy to express the aesthetics through the web media, such as animation and the website layout. Recently, I am keeping to enhance my React knowledge and I also explore the 3D framework for React, React Three Fiber. On the other hand, I am into visiting the events about up-to-date web and media technology, such as the Siggraph Asia. Actually, I have attended this event several times when it was held in Singapore, Hong Kong and Macau, and I enjoyed the content about latest technology for web, Computer Graphic and game. Otherwise, I like jogging and Tai Chi, as they could help me to rejuvenate and relax.",
     "work":[
       {
-        "company":"Skills Bootcamp in Digital",
+        "company":"Software Development Bootcamp Course",
         "url":"https://instituteofcoding.org/skillsbootcamps/course/skills-bootcamps-in-digital-october-2021/",
-        "title":"Digital bootcamp learner",
-        "years":"October 2021 - January 2022",
+        "title":"Full stack web development learner",
+        "years":"Sep 2022 - January 2023",
         "type":"Subjects:",
         "responsibilities":"A range of interdisciplinary areas such as Employability and Business Readiness, Computing Fundamentals, Technical Sales Innovation, Tech for Good, Cyber Security, Business and Entrepreneurship",
-        "skills":"Python, C#, Unity3D, SQLite, Database, HTML, CSS, UX Design, Cyber Security"
+        "skills":"Javascript, Python, MySQL, MongoDB, Database, HTML, CSS"
       },
       {
         "company":"Google UX Design certificate",
-        "url":"https://grow.google/certificates/ux-design/",
+        "url":"https://www.coursera.org/account/accomplishments/professional-cert/JRHTZ4G5XJL2?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof",
         "title":"UX Design learner",
-        "years":"August 2021 - November 2021",
+        "years":"August 2021 - October 2022",
         "type":"Subjects:",
         "responsibilities":"Foundations of UX Design, Start the UX Design Process - Empathize, Define, Ideate, Build Wireframes and Low-Fidelity Prototypes, Conduct UX Research and Test Early Concepts",
         "skills":"User research, personas, user journey map, problem statements, paper wireframe, digital wireframe, low-fidelity prototype, and usability studies"
